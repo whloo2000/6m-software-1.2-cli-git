@@ -1,0 +1,21 @@
+.box-1{
+background-color: aquamarine;
+padding: 0px;
+height: 200px;
+width: 500px;
+border: 1px solid cyan;
+margin: 5px;
+
+}
+
+.box-2{
+    background-color: rgb(127, 255, 185);
+    border: 0 solid rgb(0, 255, 0);
+    padding: 10px;
+    height: 100px;
+    width: 500px;
+    border: 10px solid cyan;
+    margin: 5px;
+    
+    }
+    
